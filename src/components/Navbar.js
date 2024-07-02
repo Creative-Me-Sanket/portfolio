@@ -15,6 +15,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { FaPhoneAlt } from "react-icons/fa";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -38,9 +39,12 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="/" className="d-flex align-items-center justify-items-center">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-        <b style={{fontSize:"1.5em" , fontWeight:"700"}} className="purple">SK</b>
+        <span style={{fontSize:"1.2em" , fontWeight:"700"}} className="phone-icon purple">
+        <FaPhoneAlt /> {/* Rendering the phone icon */}
+      </span>
+       <b style={{fontSize:"1.5em" , fontWeight:"700" , fontFamily:"sans-serif" , marginTop:"5px"}}> &nbsp; - 9403539396</b>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
