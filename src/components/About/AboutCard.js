@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sanket Khule </span>
             from <span className="purple"> Pune, India.</span>
             <br />
-            I am currently employed as a software developer at Equip9 Internet Pvt Ltd.
+            I am currently employed as a software developer at Inode Design Pvt Ltd.
             <br />
             I have completed Master of Computer Application (MCA) in Computer Science from D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS
             <br />

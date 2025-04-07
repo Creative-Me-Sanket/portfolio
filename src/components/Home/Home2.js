@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java and Javascript. </b>
+                <b className="purple"> Javascript, React.Js and Next.Js . </b>
               </i>
               <br />
               <br />
