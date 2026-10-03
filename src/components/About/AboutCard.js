@@ -62,6 +62,7 @@ function AboutCard() {
 
           <footer className="blockquote-footer">Sanket</footer>
         </blockquote>
+        
       </Card.Body>
     </Card>
   );
