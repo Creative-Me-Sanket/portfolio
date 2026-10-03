@@ -18,8 +18,8 @@ function AboutCard() {
             <span className="purple"> Generative AI, LLMs, RAG, and Agentic AI.</span>
             <br />
             <br />
-            Currently, I work as a software engineer at
-            <span className="purple"> Inode Design Pvt. Ltd.</span>, where I focus on
+            Currently, I work as a Fullstack Engineer at
+            <span className="purple"> Inode-RAMS Built Env Tech Pvt. Ltd.</span>, where I focus on
             designing and developing production-grade applications, solving complex
             engineering challenges, and delivering solutions that create real business
             impact.
